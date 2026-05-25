@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Takeaway Inbox",
+      "type": "shell",
+      "command": "code -r -g takeaways/inbox.md",
+      "problemMatcher": []
+    }
+  ]
+}

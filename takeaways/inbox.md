@@ -1,6 +1,8 @@
-# Takeaway Log
+# Takeaway Inbox
 
-Use this file for chronological entries.
+Use this file for fast capture.
+
+Move entries into topic files when convenient.
 
 ## Quick Capture Template
 
@@ -15,7 +17,7 @@ Copy this block for each new takeaway:
 - How I can apply it: <practical next step>
 ```
 
-## Entries
+## Inbox entries
 
 ### 2026-05-25 - Example entry
 

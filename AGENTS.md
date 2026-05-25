@@ -7,14 +7,15 @@ This repository is a markdown knowledge base for AI tooling, agent workflows, an
 ## Start Here
 
 - Read [README.md](README.md) for the content index and organization.
-- Read [takeaways/log.md](takeaways/log.md) for chronological capture entries.
+- Read [takeaways/README.md](takeaways/README.md) for topic-oriented takeaways.
+- Read [takeaways/inbox.md](takeaways/inbox.md) for quick capture entries.
 - Read [resources/links.md](resources/links.md) for evergreen tools and references.
-- Read [context-management.md](context-management.md) for context-preservation philosophy.
+- Read [takeaways/context-management.md](takeaways/context-management.md) for context-preservation philosophy.
 
 ## Working Rules For Agents
 
 - Default to minimal edits and preserve existing writing voice.
-- Prefer adding new markdown notes over restructuring existing files.
+- Prefer adding topic takeaway files under `takeaways/` and linking them in [takeaways/README.md](takeaways/README.md).
 - If adding a new topic note, also add its link in [README.md](README.md) under the most relevant section.
 - Keep markdown simple: headings, short paragraphs, and flat bullet lists.
 - Include source attribution for new takeaways when available (article, video, author).

@@ -1,0 +1,16 @@
+{
+  "Takeaway capture": {
+    "scope": "markdown",
+    "prefix": "tw",
+    "description": "Insert quick takeaway capture block",
+    "body": [
+      "### ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} - ${1:short takeaway title}",
+      "",
+      "- Source: ${2:<link or reference>}",
+      "- Context: ${3:work | free-time browsing}",
+      "- Takeaway: ${4:what was useful}",
+      "- How I can apply it: ${5:practical next step}",
+      ""
+    ]
+  }
+}

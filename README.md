@@ -7,17 +7,23 @@ A simple markdown knowledge base for useful AI takeaways I discover during:
 
 ## Repository map
 
-- [Takeaway log](takeaways/log.md)
+- [Takeaway inbox and topics](takeaways/README.md)
 - [Links and references](resources/links.md)
-- [Topical notes](notes/README.md)
-- [Context management note](context-management.md)
+- [Capture inbox](takeaways/inbox.md)
+- [Context management takeaway](takeaways/context-management.md)
 
 ## How to add new content
 
-- Add chronological takeaways to [takeaways/log.md](takeaways/log.md).
+- Add quick captures to [takeaways/inbox.md](takeaways/inbox.md).
+- Move captures into topic files listed in [takeaways/README.md](takeaways/README.md).
 - Add evergreen links to [resources/links.md](resources/links.md).
-- Add topic-specific notes under [notes/](notes/README.md) and link them in this README.
 
 ## Capture format
 
-Use the template in [takeaways/log.md](takeaways/log.md#quick-capture-template).
+Use the template in [takeaways/inbox.md](takeaways/inbox.md#quick-capture-template).
+
+## Quick capture workflow
+
+- Trigger snippet prefix `tw` in any markdown file to insert a takeaway template.
+- Run the task `Open Takeaway Inbox` to jump directly to [takeaways/inbox.md](takeaways/inbox.md).
+- Optional: bind a keyboard shortcut to `Tasks: Run Task` and choose `Open Takeaway Inbox`.
