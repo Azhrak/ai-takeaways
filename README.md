@@ -18,7 +18,7 @@ Copy this block for each new takeaway:
 
 ## Takeaways
 
-### YYYY-MM-DD — Example entry
+### 2026-05-25 — Example entry
 - Source: https://example.com
 - Context: work
 - Takeaway: Keep notes short and actionable.
