@@ -7,6 +7,8 @@ This repository is a markdown knowledge base for AI tooling, agent workflows, an
 ## Start Here
 
 - Read [README.md](README.md) for the content index and organization.
+- Read [takeaways/log.md](takeaways/log.md) for chronological capture entries.
+- Read [resources/links.md](resources/links.md) for evergreen tools and references.
 - Read [context-management.md](context-management.md) for context-preservation philosophy.
 
 ## Working Rules For Agents
