@@ -1,0 +1,29 @@
+{
+  "name": "ai-takeaways",
+  "version": "1.0.0",
+  "description": "A simple static notepad for useful AI takeaways I discover during:\r - work\r - free-time web browsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:md": "markdownlint \"**/*.md\" --ignore node_modules",
+    "lint:md:fix": "markdownlint \"**/*.md\" --fix --ignore node_modules",
+    "format:md": "prettier --write \"**/*.md\"",
+    "format:md:check": "prettier --check \"**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azhrak/ai-takeaways.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Azhrak/ai-takeaways/issues"
+  },
+  "homepage": "https://github.com/Azhrak/ai-takeaways#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.48.0",
+    "prettier": "^3.8.3"
+  }
+}
