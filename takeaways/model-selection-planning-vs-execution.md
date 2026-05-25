@@ -13,3 +13,18 @@ A practical split:
 - hand execution to a cheaper or lower-thinking model once the plan is solid
 
 This creates a good cost-quality balance: expensive thinking where it matters, cheaper execution where the path is already clear.
+
+## Token efficiency will matter more than token maxing
+
+- Source: <https://www.youtube.com/watch?v=0zw-Uk9KJiA>
+
+The useful framing from this transcript: very high token spend can be valid for research or product stress tests, but it is not a default operating model for most teams.
+
+Practical takeaways:
+
+- Treat "maximum token usage" demos as edge-case experiments, not baseline engineering practice.
+- Optimize for delivered outcomes per token, not raw token volume.
+- Expect a governance snapback in organizations: after experimentation, budgets and token efficiency controls will tighten.
+- Prefer a staged workflow: broader exploration first, then tighter prompts and scopes for execution.
+- Use a clear trade-off lens for AI work: buy vs build vs vibe (speed, cost, and reliability).
+- Reserve high-token, parallel-agent workflows for problems where the extra spend has measurable payoff.
