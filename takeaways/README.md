@@ -11,6 +11,7 @@ Takeaways are topic-oriented in this repository.
 ## Topics
 
 - [Context management](context-management.md)
+- [Grilling workflow failure modes](grilling-workflow-failure-modes.md)
 - [Model selection for planning vs execution](model-selection-planning-vs-execution.md)
 
 ## Add a new topic
