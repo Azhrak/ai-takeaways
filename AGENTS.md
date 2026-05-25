@@ -23,6 +23,7 @@ This repository is a markdown knowledge base for AI tooling, agent workflows, an
 ## Scope And Tooling
 
 - This is a docs-only repository.
+- Default workspace skills folder: `.agents/skills/`.
 - Markdown quality commands:
   - `npm run lint:md`
   - `npm run lint:md:fix`

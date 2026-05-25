@@ -11,6 +11,7 @@ A simple markdown knowledge base for useful AI takeaways I discover during:
 - [Links and references](resources/links.md)
 - [Capture inbox](takeaways/inbox.md)
 - [Context management takeaway](takeaways/context-management.md)
+- [Model selection for planning vs execution takeaway](takeaways/model-selection-planning-vs-execution.md)
 
 ## How to add new content
 
