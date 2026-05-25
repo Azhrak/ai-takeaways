@@ -8,7 +8,8 @@
     "lint:md": "markdownlint \"**/*.md\" --ignore node_modules",
     "lint:md:fix": "markdownlint \"**/*.md\" --fix --ignore node_modules",
     "format:md": "prettier --write \"**/*.md\"",
-    "format:md:check": "prettier --check \"**/*.md\""
+    "format:md:check": "prettier --check \"**/*.md\"",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/Azhrak/ai-takeaways#readme",
   "devDependencies": {
+    "husky": "^9.1.7",
     "markdownlint-cli": "^0.48.0",
     "prettier": "^3.8.3"
   }
